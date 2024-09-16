@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Guia2.iml" filepath="$PROJECT_DIR$/.idea/Guia2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guia2 -1/Guia2 -1.iml" filepath="$PROJECT_DIR$/Guia2 -1/Guia2 -1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guia2- 2/Guia2- 2.iml" filepath="$PROJECT_DIR$/Guia2- 2/Guia2- 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guia2- 4/Guia2- 4.iml" filepath="$PROJECT_DIR$/Guia2- 4/Guia2- 4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guia2- 5/Guia2- 5.iml" filepath="$PROJECT_DIR$/Guia2- 5/Guia2- 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuiaAdd2- 2/GuiaAdd2- 2.iml" filepath="$PROJECT_DIR$/GuiaAdd2- 2/GuiaAdd2- 2.iml" />
+    </modules>
+  </component>
+</project>
